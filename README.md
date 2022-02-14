@@ -1,5 +1,7 @@
 [![lfhsheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfhsheng)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://lfhsheng.top" align="center"><img align="center" src="https://img.shields.io/badge/Blog-lfhsheng.top-yellow"></a>
+
 ## 我
 
 ### 自我介绍
